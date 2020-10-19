@@ -13,7 +13,20 @@
             "file": "Act Two.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "9a642e7a37dbe3e1"
+      },
+      {
+        "id": "e266c711477cf3bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "day.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9a642e7a37dbe3e1"
       }
     ],
     "direction": "vertical"
@@ -65,6 +78,7 @@
               "type": "backlink",
               "state": {
                 "file": "Act Two.md"
+
               }
             }
           }
@@ -76,6 +90,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+
     "Act Two.md",
     "Act One.md",
     "dave.md",
