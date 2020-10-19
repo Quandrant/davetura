@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "dnd.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "dnd.md"
               }
             }
           }
@@ -76,7 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "dnd.md",
+    "Main Page.md",
     "README.md",
-    "dave.md"
+    "dave.md",
+    "Discord.md",
+    "day.md",
+    "Act One.md",
+    "Act Two.md",
+    "google.com.md",
+    "Untitled.md"
   ]
 }
