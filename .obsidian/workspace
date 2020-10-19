@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "day.md",
-            "mode": "source"
+            "file": "Act Two.md",
+            "mode": "preview"
           }
         },
         "group": "9a642e7a37dbe3e1"
@@ -77,7 +77,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day.md"
+                "file": "Act Two.md"
+
               }
             }
           }
@@ -89,8 +90,16 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "day.md",
+
+    "Act Two.md",
+    "Act One.md",
     "dave.md",
-    "README.md"
+    "day.md",
+    "Main Page.md",
+    "dnd.md",
+    "README.md",
+    "Discord.md",
+    "google.com.md",
+    "Untitled.md"
   ]
 }
