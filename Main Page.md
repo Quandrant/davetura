@@ -15,5 +15,6 @@
 - dnd: in which the authors might not be completely dead (a guide)
 
 ### Characters
-- [[day]]
-- [[dave]]
+- [[day|Day]]
+- [[dave|Dave]]
+- Nyx

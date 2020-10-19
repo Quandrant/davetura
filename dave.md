@@ -1,4 +1,4 @@
-# dave
+# Dave
 ---
 *This article is about the author and real life individual. Not to be confused with [Dave Strider](https://mspaintadventures.fandom.com/wiki/Dave_Strider).*
 
