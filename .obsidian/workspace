@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a3b585f6ba544a4",
+        "id": "e266c711477cf3bc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main Page.md",
-            "mode": "source"
-          }
-        },
-        "group": "9a642e7a37dbe3e1"
-      },
-      {
-        "id": "e266c711477cf3bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main Page.md",
+            "file": "README.md",
             "mode": "preview"
           }
-        },
-        "group": "9a642e7a37dbe3e1"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Page.md"
+                "file": "README.md"
               }
             }
           }
@@ -89,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "Act Two.md",
+    "About the Study Guide.md",
+    "Act One.md",
+    "sonnet 38.md",
     "Main Page.md",
     "dnd.md",
-    "day.md",
-    "dave.md",
-    "Act Two.md",
-    "Act One.md",
-    "About the Study Guide.md",
-    "README.md",
-    "Nyx.md",
-    "Quasi-Sparknotes.md"
+    "Pasted image 20201020002148.png",
+    "love trivia.md",
+    "dave.md"
   ]
 }

@@ -10,3 +10,6 @@ On Discord their username is **davestridsr**. Dave's color is `red` and they oft
 ---
 ### [[day|Daytura]]
 
+they're gay for day
+transcendentally gay
+what else do you gotta know
