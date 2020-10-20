@@ -12,9 +12,9 @@
 - [[Act One]]
 - [[Act Two]]
 - [[README|Act Three]]
-- dnd: in which the authors might not be completely dead (a guide)
+- [[About the Study Guide|dnd: in which the authors might not be completely dead (a guide)]]
 
 ### Characters
 - [[day|Day]]
 - [[dave|Dave]]
-- Nyx
+- [[Nyx]]

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Act Two.md",
-            "mode": "preview"
+            "file": "Main Page.md",
+            "mode": "source"
           }
         },
         "group": "9a642e7a37dbe3e1"
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "day.md",
+            "file": "Main Page.md",
             "mode": "preview"
           }
         },
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 211
   },
   "right": {
     "id": "e8023649218691a2",
@@ -77,8 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act Two.md"
-
+                "file": "Main Page.md"
               }
             }
           }
@@ -90,16 +89,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-
-    "Act Two.md",
-    "Act One.md",
-    "dave.md",
-    "day.md",
     "Main Page.md",
     "dnd.md",
+    "day.md",
+    "dave.md",
+    "Act Two.md",
+    "Act One.md",
+    "About the Study Guide.md",
     "README.md",
-    "Discord.md",
-    "google.com.md",
-    "Untitled.md"
+    "Nyx.md",
+    "Quasi-Sparknotes.md"
   ]
 }

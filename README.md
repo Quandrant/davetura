@@ -1,5 +1,5 @@
 # davetura: [[dave]] and [[day]]
 
-Welcome to Act 3 of the double self-authored RPF, dnd! It should be noted, however, that the newly-nebulous state of dnd may make it more applicable to simply call the entire project "davetura^[still the best ship name ever btw]". 
+Welcome to Act 3 of the double self-authored RPF, dnd! It should be noted, however, that the newly-nebulous state of dnd may make it more applicable to simply call the entire project "davetura^[still the best ship name ever btw^[Agreed. ;)]]". 
 
-Testing my own "day" branch. Hopefully it doesn't bleed into main like last time--ugh.
+[~~Testing my own "day" branch. Hopefully it doesn't bleed into main like last time--ugh.~~ Branches work! Merges work! Local pushing and pulling works!]
