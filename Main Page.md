@@ -4,7 +4,7 @@
 
 > ##### Latest edits
 
-- example text here
+- Finished entries on the [[Mindroom]], [[Narrative Focus]], [[Outside]], 
 
 > ##### Contents
 
