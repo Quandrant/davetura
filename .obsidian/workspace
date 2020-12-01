@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e266c711477cf3bc",
+        "id": "971b5bbe74d262eb",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Intro to Aranea.md",
+            "mode": "source"
+          }
+        },
+        "group": "a214a6dc1a0a6620"
+      },
+      {
+        "id": "e266c711477cf3bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro to Aranea.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "a214a6dc1a0a6620"
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "Intro to Aranea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -72,19 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 189,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "Act Two.md",
-    "About the Study Guide.md",
-    "Act One.md",
-    "sonnet 38.md",
-    "Main Page.md",
+    "Intro to Aranea.md",
+    "YOUR 3Y3S H4V3 B33N CLOS3D.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Nyx.md",
     "dnd.md",
-    "Pasted image 20201020002148.png",
-    "love trivia.md",
-    "dave.md"
+    "day.md",
+    "dave.md",
+    "Act Two.md",
+    "Act One.md"
   ]
 }
