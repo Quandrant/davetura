@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e266c711477cf3bc",
+        "id": "71b1e5c639298240",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Narrative Focus.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "Narrative Focus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Narrative Focus.md",
     "README.md",
-    "Act Two.md",
-    "About the Study Guide.md",
+    "dave.md",
     "Act One.md",
     "sonnet 38.md",
-    "Main Page.md",
-    "dnd.md",
-    "Pasted image 20201020002148.png",
-    "love trivia.md",
-    "dave.md"
+    "Act Two.md",
+    "Nyx.md",
+    "To Be or Not To Be.md",
+    "Outside.md",
+    "Main Page.md"
   ]
 }
