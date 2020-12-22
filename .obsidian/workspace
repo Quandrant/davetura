@@ -1,46 +1,30 @@
 {
   "main": {
-    "id": "bba77c907b593723",
+    "id": "2406c8e3d98b6abc",
     "type": "split",
     "children": [
       {
-        "id": "971b5bbe74d262eb",
+        "id": "9da2aa3329fdc9d0",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Intro to Aranea.md",
-            "mode": "source"
-          }
-        },
-        "group": "a214a6dc1a0a6620"
-      },
-      {
-        "id": "e266c711477cf3bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Intro to Aranea.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a214a6dc1a0a6620"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5ff3e2a84e055f18",
+    "id": "bc14424f36e3b652",
     "type": "split",
     "children": [
       {
-        "id": "c99eb5873d57e806",
+        "id": "e6719522f0a2c8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9b9ab85427871e",
+            "id": "187b31e6e3ec7281",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +32,7 @@
             }
           },
           {
-            "id": "3279ce8b668ccd53",
+            "id": "84c07bfa52ddcf1e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,23 +50,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 300
   },
   "right": {
-    "id": "e8023649218691a2",
+    "id": "e6da27fb69c4b8e5",
     "type": "split",
     "children": [
       {
-        "id": "2b950c471517d036",
+        "id": "8f001e731e7f072b",
         "type": "tabs",
         "children": [
           {
-            "id": "5abf19600d2375c2",
+            "id": "ce07a6ffcac09501",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Aranea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +78,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189,
+    "width": 300,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Intro to Aranea.md",
-    "YOUR 3Y3S H4V3 B33N CLOS3D.md",
+    "The Days and the Nights.md",
+    "sonnet 38.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Nyx.md",
-    "dnd.md",
     "day.md",
-    "dave.md",
-    "Act Two.md",
+    "Intro to Aranea.md",
+    "Mindroom.md",
+    "Outside.md",
+    "To Be or Not To Be.md",
+    "About the Study Guide.md",
     "Act One.md"
   ]
 }
